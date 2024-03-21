@@ -1,2 +1,2 @@
 # Gym-Website
- https://sachinrajput98.github.io/Gym-Website/
+ https://sachinkumar46.github.io/Gym-Website/
